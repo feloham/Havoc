@@ -16,6 +16,9 @@
     "tail": "^0.4.0",
     "websocket": "^1.0.10"
   },
+"engines": {
+  "node": "6.2.0"
+},
   "devDependencies": {},
   "scripts": {
     "test": "./node havoc.js"
